@@ -1,24 +1,33 @@
-title: "Yona Lapeyre"
-tagline: "My personal website :)"
-description: "I'll try to update often"
-github_username: y-lapeyre
-baseurl: "/y-lapeyre"
-url: "https://y-lapeyre.github.io"
+# This is an example of what an '_config.yml' file should look like
+# when using jekyll-shell-theme. You should use this as a guide or
+# just copy+paste it and modify some of the content to begin with.
 
+title: Page Title
+email: yona.lapeyre@ens-lyon.fr
+description: >- # this means to ignore newlines until "baseurl:"
+  A paragraph describing your webpage.
+baseurl: "/blog" # the subpath of your site
+url: "gitub.io" # the base hostname & protocol for your site
+twitter_username: y-lapeyre
+github_username:  y-lapeyre
+
+# Required plugins for the theme to work properly
 plugins:
+  - jekyll-remote-theme
   - jemoji
-  - jekyll-sitemap
-  - jekyll-seo-tag
+
+# Including jekyll-shell-theme using the jekyll-remote-theme plugin
+remote_theme: tareqdandachi/jekyll-shell-theme
 
 sass:
   style: compressed
 
-highlighter: rouge
+highlighter: rouge #selecting the highlighter, default is rouge
 
 header_pages:
   - index.md
-  - read-me.md
-  - preview.md
+  - about.md
+  - a-third-page.md
 
-# set the size of the text to 'large' or 'small', default is small
-font-size: small
+# controls how big the shell and font looks
+font-size: small # options: [small] or [large]

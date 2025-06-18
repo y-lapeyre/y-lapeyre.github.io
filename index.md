@@ -2,14 +2,16 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: jekyll-shell-theme
+title: Yona Lapeyre
 
-detail_image: assets/theme_logo.svg
+detail_image: assets/splash_0118.png
 
 ---
 
-# jekyll-shell-theme
+# About me
 
-**Jekyll Shell Theme** is an open source light-weight customizable jekyll theme for your site! You can use it to spice up your personal profiles, project pages or just about anything!
+I'm a PhD student at the Centre de Recherche Astrophysique de Lyon (CRAL) in France. I'm interested in accretion discs around supermassive black holes, and more generally in inclined / warped discs around all objects.
 
-No prior web-dev knowledge is required to use the theme to make a website, just follow the instructions in [/read-me](read-me) to set up your web page and start filling it with hackery content! You can see sone features of the theme in [/preview](preview).
+You will find a detailed CV in [/about-me](about-me), a taste of my research interests in [/research](research).
+
+Platforms where to find me:
