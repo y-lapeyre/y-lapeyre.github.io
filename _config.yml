@@ -19,8 +19,8 @@ plugins:
 # Including jekyll-shell-theme using the jekyll-remote-theme plugin
 remote_theme: tareqdandachi/jekyll-shell-theme
 
-sass:
-  style: compressed
+#sass:
+#  style: compressed
 
 highlighter: rouge #selecting the highlighter, default is rouge
 
@@ -42,5 +42,8 @@ social:
 avatar:
   src: assets/splash_0118.png
   alt: Yona Lapeyre
+
+theme_settings:
+  css: assets/css/main.scss
 
  
