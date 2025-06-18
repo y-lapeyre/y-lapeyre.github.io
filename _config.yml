@@ -7,7 +7,7 @@ tagline: my personal webpage
 email: yona.lapeyre@ens-lyon.fr
 description: >- # this means to ignore newlines until "baseurl:"
   You'll find updates of my adventures in the reign of astrophysics and  high performance computing.
-baseurl: "/y-lapeyre" # the subpath of your site
+baseurl: "" # the subpath of your site
 url: "https://y-lapeyre.github.io" # the base hostname & protocol for your site
 github_username:  y-lapeyre
 
