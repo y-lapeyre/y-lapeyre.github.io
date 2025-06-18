@@ -2,13 +2,13 @@
 # when using jekyll-shell-theme. You should use this as a guide or
 # just copy+paste it and modify some of the content to begin with.
 
-title: Page Title
+title: Yona Lapeyre's website
+tagline: my personal webpage
 email: yona.lapeyre@ens-lyon.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  A paragraph describing your webpage.
-baseurl: "/blog" # the subpath of your site
-url: "gitub.io" # the base hostname & protocol for your site
-twitter_username: y-lapeyre
+  You'll find updates of my adventures in the reign of astrophysics and  high performance computing.
+baseurl: "/y-lapeyre" # the subpath of your site
+url: "https://y-lapeyre.gitub.io" # the base hostname & protocol for your site
 github_username:  y-lapeyre
 
 # Required plugins for the theme to work properly
@@ -28,6 +28,19 @@ header_pages:
   - index.md
   - about.md
   - a-third-page.md
-
+ 
 # controls how big the shell and font looks
 font-size: small # options: [small] or [large]
+
+lang: en
+timezone: Europe/Paris
+social:
+  email: yona.lapeyre@ens-lyon.fr
+  links:
+    - https://github.com/y-lapeyre
+
+avatar:
+  src: assets/splash_0118.png
+  alt: Yona Lapeyre
+
+ 
