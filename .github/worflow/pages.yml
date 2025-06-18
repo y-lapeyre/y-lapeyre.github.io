@@ -1,0 +1,26 @@
+on:
+  push:
+    branches: ["main"]
+    
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+      - run: gem install bundler
+      - run: bundle install
+      - run: bundle exec jekyll build --baseurl "${{ github.event.repository.default_branch == site.baseurl }}"
+      - uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./_site
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v2
