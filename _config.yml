@@ -6,7 +6,7 @@ title: Yona Lapeyre's website
 tagline: my personal webpage
 email: yona.lapeyre@ens-lyon.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  You'll find updates of my adventures in the reign of astrophysics and  high performance computing.
+  Here you'll find updates of my adventures in the reign of astrophysics and  high performance computing.
 baseurl: "" # the subpath of your site
 url: "https://y-lapeyre.github.io" # the base hostname & protocol for your site
 github_username:  y-lapeyre
@@ -26,8 +26,10 @@ highlighter: rouge #selecting the highlighter, default is rouge
 
 header_pages:
   - index.md
-  - about.md
-  - a-third-page.md
+  - about-me.md
+  - research.md
+  - teaching.md
+  - fun-stuff.md
  
 # controls how big the shell and font looks
 font-size: small # options: [small] or [large]
