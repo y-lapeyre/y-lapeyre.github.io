@@ -5,10 +5,10 @@ permalink_name: /about-me
 title: about me
 ---
 
-##Research topics
+## Research topics
 
 
-##Formation
+## Formation
 
 Oct 2024 - Present: PhD in Astrophysics @ Centre de recherche astrophysique de Lyon.
 
