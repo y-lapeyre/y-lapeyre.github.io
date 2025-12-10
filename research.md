@@ -18,6 +18,10 @@ https://doi.org/10.1093/mnras/staf444
 Towards exascale simulations of warped, magnetized discs with Shamrock
 https://phantomsph.github.io/workshop2025/
 
+Dynamical Lunch seminar
+November 2025, Institute of Astronomy, Cambridge
+Pre-exascale simulations of warped discs
+
 # Posters
 
 Advanced summer school on Mathematical Fluid Dynamics
@@ -25,3 +29,6 @@ Advanced summer school on Mathematical Fluid Dynamics
 
 Journées de la Société Française d'Astronomie et d'Astrophysique (SF2A)
 1 - 4 July 2025 in Toulouse
+
+International Conference on Exoplanets and Planet Formation (ICEPF)
+8-12 December in Shanghai, China
