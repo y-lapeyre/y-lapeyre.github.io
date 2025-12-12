@@ -32,3 +32,14 @@ Journées de la Société Française d'Astronomie et d'Astrophysique (SF2A)
 
 International Conference on Exoplanets and Planet Formation (ICEPF)
 8-12 December in Shanghai, China
+
+# Awarded time
+
+2025 
+Director's Discretionary Allocation on the Aurora machine at Argonne's Lab: 10k node hours
+
+GENCI allocation on the Adastra machine: 200k GPU hours.
+
+
+
+

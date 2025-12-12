@@ -12,6 +12,8 @@ Oct 2024 - Present: PhD in Astrophysics @ Centre de recherche astrophysique de L
 2020-2024: Bachelor and Masters in theoretical physics
 @ ENS de Lyon
 
+## Awards
+2025: Jury's award for best talk, Journée des Jeunes Physicien.nes.
 
 ## Outreach
 
