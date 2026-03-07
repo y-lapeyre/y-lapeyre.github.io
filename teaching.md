@@ -10,7 +10,7 @@ Goal: learn the basics of C++ programming.
 If you need to look at documentation, go there: https://en.cppreference.com/
 If you need an online compiler, this is for you: https://godbolt.org/
 
-For students new to programming: an easy to use code editor is Vscodium
+For students new to programming: aa friendly code editor is Vscodium
 https://vscodium.com
 
 /!\ IF YOU USE WINDOWS OS: write me an email, or come to see me at the beginning of the first class. I will help install linux on your machine.

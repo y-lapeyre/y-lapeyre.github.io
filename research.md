@@ -40,6 +40,10 @@ Director's Discretionary Allocation on the Aurora machine at Argonne's Lab: 10k 
 
 GENCI allocation on the Adastra machine: 200k GPU hours.
 
+# Awards
+
+
+
 
 
 
