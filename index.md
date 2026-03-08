@@ -8,10 +8,9 @@ detail_image: assets/splash_0118.png
 
 ---
 
-# About me
+Hello! I'm Yona B. Lapeyre, 2nd year PhD student at the Centre de Recherche Astrophysique de Lyon in France. My research focuses on warped accretion discs around a variety of objects, from singular black holes to multiple-star systems. I one of the developers of Shamrock, an astrophysics code tailored to harness the power of modern, exascale supercomputers.
 
-I'm a PhD student at the Centre de Recherche Astrophysique de Lyon (CRAL) in France. I'm interested in accretion discs around supermassive black holes, and more generally in inclined / warped discs around all objects.
+Before PhD, I graduated the ENS de Lyon with a master's degree in theoretical physics. A full CV can be downloaded [here][1]
 
-You will find a detailed CV in [/about-me](about-me), a taste of my research interests in [/research](research).
+[1]:{{ y-lapeyre.github.io }}/downloads/CV.pdf
 
-Platforms where to find me:

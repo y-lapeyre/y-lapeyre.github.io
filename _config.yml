@@ -26,7 +26,6 @@ highlighter: rouge #selecting the highlighter, default is rouge
 
 header_pages:
   - index.md
-  - about-me.md
   - research.md
   - teaching.md
   - outreach.md
