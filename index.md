@@ -4,7 +4,7 @@ permalink: /
 permalink_name: /home
 title: Yona Lapeyre
 
-detail_image: assets/splash_0118.png
+detail_image: assets/disc.png
 
 ---
 
