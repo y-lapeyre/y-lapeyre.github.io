@@ -2,7 +2,7 @@
 layout: page
 permalink: /research
 permalink_name: /research
-title: README.md
+title: Research
 ---
 
 
@@ -23,7 +23,6 @@ November 2025, Institute of Astronomy, Cambridge
 Pre-exascale simulations of warped discs
 
 # Posters
-
 Advanced summer school on Mathematical Fluid Dynamics
 31 March - 12 April 2025 in Cargèse, Corsica
 
@@ -34,15 +33,13 @@ International Conference on Exoplanets and Planet Formation (ICEPF)
 8-12 December in Shanghai, China
 
 # Awarded time
-
-2025 
-Director's Discretionary Allocation on the Aurora machine at Argonne's Lab: 10k node hours
+Director's Discretionary Allocation on the Aurora machine at Argonne's Lab: 20k node hours
 
 GENCI allocation on the Adastra machine: 200k GPU hours.
 
 # Awards
 
-
+2025: Jury's award for best talk, Journée des Jeunes Physicien.nes.
 
 
 

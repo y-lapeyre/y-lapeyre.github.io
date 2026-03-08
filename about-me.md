@@ -5,7 +5,7 @@ permalink_name: /about-me
 title: about me
 ---
 
-Hello! I'm Yona B. Lapeyre, 2nd year PhD student @ Centre de Recherche Astrophysique de Lyon in France. My research focuses on warped accretion discs around a variety of objects, from singular black holes to multiple-star systems. I run large scale 
+Hello! I'm Yona B. Lapeyre, 2nd year PhD student @ Centre de Recherche Astrophysique de Lyon in France. My research focuses on warped accretion discs around a variety of objects, from singular black holes to multiple-star systems. A full CV can be downloaded here.
 ## Formation
 
 Oct 2024 - Present: PhD in Astrophysics @ Centre de recherche astrophysique de Lyon.
@@ -13,8 +13,7 @@ Oct 2024 - Present: PhD in Astrophysics @ Centre de recherche astrophysique de L
 2020-2024: Bachelor and Masters in theoretical physics
 @ ENS de Lyon
 
-## Awards
-2025: Jury's award for best talk, Journée des Jeunes Physicien.nes.
+##
 
 ## Outreach
 
