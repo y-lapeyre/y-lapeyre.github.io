@@ -6,7 +6,7 @@ title: Research
 ---
 
 
-# Publications
+# <span class="type">Publications</span>
 The Shamrock code: I- Smoothed Particle Hydrodynamics on GPUs
 Timothée David--Cléris, Guillaume Laibe, Yona Lapeyre
 Monthly Notices of the Royal Astronomical Society, Volume 539, Issue 1, May 2025, Pages 1–33
