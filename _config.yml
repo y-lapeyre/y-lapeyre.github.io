@@ -11,13 +11,9 @@ baseurl: "" # the subpath of your site
 url: "https://y-lapeyre.github.io" # the base hostname & protocol for your site
 github_username:  y-lapeyre
 
-# Required plugins for the theme to work properly
 plugins:
-  - jekyll-remote-theme
+  - jekyll-seo-tag
   - jemoji
-
-# Including jekyll-shell-theme using the jekyll-remote-theme plugin
-remote_theme: tareqdandachi/jekyll-shell-theme
 
 #sass:
 #  style: compressed
@@ -29,11 +25,7 @@ header_pages:
   - research.md
   - teaching.md
   - outreach.md
-  - fun-stuff.md
  
-# controls how big the shell and font looks
-font-size: small # options: [small] or [large]
-
 lang: en
 timezone: Europe/Paris
 social:

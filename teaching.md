@@ -5,24 +5,28 @@ permalink_name: /teaching
 title: teaching
 ---
 
-# Programmation in C++ - 2nd year Physics Undergrad @ UCBL
+# Programming in C++
+*2nd year Physics undergraduate, UCBL*
+
 Goal: learn the basics of C++ programming.
-If you need to look at documentation, go there: https://en.cppreference.com/
-If you need an online compiler, this is for you: https://godbolt.org/
 
-For students new to programming: aa friendly code editor is Vscodium
-https://vscodium.com
+- Documentation: [cppreference.com](https://en.cppreference.com/)
+- Online compiler: [Compiler Explorer](https://godbolt.org/)
+- For students new to programming, a friendly code editor is [VSCodium](https://vscodium.com)
 
-/!\ IF YOU USE WINDOWS OS: write me an email, or come to see me at the beginning of the first class. I will help install linux on your machine.
+**If you use Windows:** send me an email or come to see me at the beginning of the first class, and I will help you install Linux on your machine.
 
-# Modelisation in Astrophysics and Cosmology - M1 course @ UCBL
-The corrections to the labs can be found here:
-https://github.com/y-lapeyre/M1-modelo
+# Modelling in Astrophysics and Cosmology
+*M1 course, UCBL*
 
-For the projects, you are strongly encouraged to create a github/gitlab repo and share it with me (@y-lapeyre).
+The solutions to the labs are available [on GitHub](https://github.com/y-lapeyre/M1-modelo).
 
-# Mathematics for geophysics - M1 course @ UCBL/ENS
-Goal: master all the mathematical tools necessary for the geophysics master.
+For the projects, you are strongly encouraged to create a GitHub/GitLab repository and share it with me (@y-lapeyre).
 
-The lectures can be found here: https://github.com/y-lapeyre/M1_maths_geosciences
-The exercises and corrections: https://github.com/y-lapeyre/M1_geosciences_exos 
+# Mathematics for Geophysics
+*M1 course, UCBL/ENS*
+
+Goal: master the mathematical tools needed for the geophysics master's.
+
+- [Lecture notes](https://github.com/y-lapeyre/M1_maths_geosciences)
+- [Exercises and solutions](https://github.com/y-lapeyre/M1_geosciences_exos)

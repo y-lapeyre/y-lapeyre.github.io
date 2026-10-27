@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
-{%- if page.detail_image -%}<img class="detail_header" src="{{ page.detail_image }}">{%- endif -%}
+<h1 class="page-title">{{ page.title | capitalize }}</h1>
+
+{%- if page.detail_image -%}<img class="detail_header" src="{{ page.detail_image | relative_url }}">{%- endif -%}
 
 {{ content }}
